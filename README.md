@@ -1,2 +1,2 @@
 # competitive-programming
-Archives for accepted answer.
+Exposing my flaw (imperfection) to public.
