@@ -5,6 +5,7 @@
 #include <ctype.h>
 #include <algorithm>
 using namespace std;
+
 int t;
 
 void checker(){
@@ -24,9 +25,8 @@ void checker(){
 int main() {
     cin >> t;
     
-    while(t) {
+    while (t) {
         checker();
         cin >> t;
-        
     }
 }
