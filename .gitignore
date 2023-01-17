@@ -1,0 +1,16 @@
+*.*
+*
+
+# except
+!*.cpp
+!*.c
+!*.py
+!*/
+!README.md
+
+.*
+
+# if i miss somthings
+!.gitignore
+tempCodeRunnerFile.*
+tempCodeRunnerFile
