@@ -1,2 +1,0 @@
-print(firstWord)
-    print(secondWord)

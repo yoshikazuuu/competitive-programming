@@ -1,6 +1,0 @@
-pertama masukan
-cek itu ganjil ato genap
-    masukan +1
-for (int i = 0; i < 3; i++)
-    print masukan + i * 2
-
